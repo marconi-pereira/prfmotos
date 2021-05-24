@@ -1,5 +1,16 @@
 {
-    "require": {
-        "php": "^7.0.8"
+  "name": "logicsistema/prfmotos",
+  "description": "Sistema para vendas e controle estoque",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Marconi Pereira",
+      "email": "suporte@logicsystem.com.br",
+      "homepage": "https://www.logicsystem.com.br",
+      "role": "Developer"
     }
+  ],
+   "require": {
+    "php": "^7.0"    
+  }
 }
